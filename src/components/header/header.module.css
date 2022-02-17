@@ -1,0 +1,90 @@
+.wrapper {
+  width: 100%;
+}
+
+.topWrapper {
+  background: #121212;
+  color: #fff;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Spartan";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 12px;
+}
+
+.top {
+  width: 90%;
+  margin: 0.5%;
+  display: flex;
+  justify-content: space-between;
+  opacity: 0.8;
+}
+
+.left {
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.left div {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 33%;
+}
+
+.left div img {
+  margin-right: 5%;
+}
+
+.right {
+  width: 7%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.bottomWrapper {
+  background: #fff;
+  color: #121212;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Spartan";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 12px;
+}
+
+.bottom {
+  margin: 2%;
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  flex-basis: 20%;
+}
+
+.menu {
+  flex-basis: 40%;
+  display: flex;
+  justify-content: space-between;
+  font-family: "Spartan";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.images {
+  width: 20%;
+  display: flex;
+  justify-content: space-between;
+}
