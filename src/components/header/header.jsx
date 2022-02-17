@@ -10,9 +10,6 @@ import Pinterest from "./images/pinterest.svg";
 import Search from "./images/search.svg";
 import Network from "./images/network.svg";
 import Vector from "./images/vector.svg";
-import Circle from "./images/circle.svg";
-import ellipse from "./images/ellipse.svg";
-import Two from "./images/two.svg";
 import Basket from "./images/basket.svg";
 import ClerverShop from "./images/cleverShop.svg";
 
